@@ -1,4 +1,4 @@
-# OTI-Subiecte-Rezolvate
+<h1 style = "text-align: center">OTI-Subiecte-Rezolvate</h1>
 
 ## Etapa Judeteana
 #### 12 Subiecte
