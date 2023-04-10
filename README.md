@@ -3,7 +3,7 @@
 ## Etapa Judeteana
 #### 12 Subiecte
 - [x] CIA 2009
-- [ ] CIA 2010
+- [X] CIA 2010
 - [ ] CIA 2011
 - [ ] CIA 2012
 - [ ] OTI 2013
