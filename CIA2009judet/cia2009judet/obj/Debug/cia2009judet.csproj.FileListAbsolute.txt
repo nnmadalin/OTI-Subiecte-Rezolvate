@@ -1,0 +1,28 @@
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\bin\Debug\cia2009judet.exe.config
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\bin\Debug\cia2009judet.exe
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\bin\Debug\cia2009judet.pdb
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.calculator.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.home.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.exe
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.pdb
+C:\Users\nnmadalin\Desktop\OLIMPIADA\cia2009judet\cia2009judet\obj\Debug\cia2009judet.rotire.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\bin\Debug\cia2009judet.exe.config
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\bin\Debug\cia2009judet.exe
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\bin\Debug\cia2009judet.pdb
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.bd.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.calculator.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.home.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.rotire.resources
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.exe
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.pdb
+C:\Users\nnmadalin\Desktop\OLIMPIADA\subiecte rezolvare 2023\cia2009judet\cia2009judet\obj\Debug\cia2009judet.despre.resources
