@@ -1,0 +1,16 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\bin\Debug\CIA2010judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\bin\Debug\CIA2010judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\bin\Debug\CIA2010judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.home.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.trigonometrie.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\bin\Debug\Scoala.mdf
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\bin\Debug\Scoala_log.ldf
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.baza_de_date.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2010judet\CIA2010judet\obj\Debug\CIA2010judet.despre.resources
