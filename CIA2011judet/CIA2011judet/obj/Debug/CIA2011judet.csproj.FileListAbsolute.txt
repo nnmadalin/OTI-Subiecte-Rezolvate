@@ -1,0 +1,11 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\bin\Debug\CIA2011judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\bin\Debug\CIA2011judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\bin\Debug\CIA2011judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.Form1.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\CIA2011judet\CIA2011judet\obj\Debug\CIA2011judet.pdb
