@@ -1,0 +1,15 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\bin\Debug\OTI2014judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\bin\Debug\OTI2014judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\bin\Debug\OTI2014judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.home.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\bin\Debug\DBBursa.mdf
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\bin\Debug\DBBursa_log.ldf
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.actiunile_mele.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2014judet\OTI2014judet\obj\Debug\OTI2014judet.grafic.resources
