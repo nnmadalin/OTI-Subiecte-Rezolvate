@@ -1,0 +1,14 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\bin\Debug\OTI2016judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\bin\Debug\OTI2016judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\bin\Debug\OTI2016judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.autentificare.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.creare_cont.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.form.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.optiuni.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2016judet\OTI2016judet\obj\Debug\OTI2016judet.comanda.resources
