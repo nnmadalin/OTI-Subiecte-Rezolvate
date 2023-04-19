@@ -1,0 +1,23 @@
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\bin\Debug\OTI2017judet.exe.config
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\bin\Debug\OTI2017judet.exe
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\bin\Debug\OTI2017judet.pdb
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.csproj.AssemblyReference.cache
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.Form1.resources
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.Properties.Resources.resources
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.exe
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.pdb
+C:\Users\elev\source\repos\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.genereaza_poster.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\bin\Debug\OTI2017judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\bin\Debug\OTI2017judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\bin\Debug\OTI2017judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.genereaza_poster.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.home.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2017judet\OTI2017judet\obj\Debug\OTI2017judet.visualizare_excursie.resources
