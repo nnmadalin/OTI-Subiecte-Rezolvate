@@ -1,0 +1,14 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\bin\Debug\OTI2019judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\bin\Debug\OTI2019judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\bin\Debug\OTI2019judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.home.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.login.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.signin.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.menu.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\OTI2019judet\OTI2019judet\obj\Debug\OTI2019judet.carte.resources
