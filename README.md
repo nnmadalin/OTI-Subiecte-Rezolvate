@@ -3,7 +3,7 @@
 ## Etapa Nationala
 #### 12 Subiecte
 - [X] CIA 2008
-- [ ] CIA 2009
+- [X] CIA 2009
 - [ ] CIA 2010
 - [ ] CIA 2012
 - [ ] OTI 2013
