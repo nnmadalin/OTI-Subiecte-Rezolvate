@@ -4,7 +4,7 @@
 #### 12 Subiecte
 - [X] CIA 2008
 - [X] CIA 2009
-- [ ] CIA 2010
+- [X] CIA 2010
 - [ ] CIA 2012
 - [ ] OTI 2013
 - [ ] OTI 2014
