@@ -1,0 +1,11 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.Form1.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\bin\Debug\CIA2010nationala.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\bin\Debug\CIA2010nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\bin\Debug\CIA2010nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\CIA2010nationala\CIA2010nationala\obj\Debug\CIA2010nationala.despre.resources
