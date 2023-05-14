@@ -1,14 +1,13 @@
 <h1 align="center">OTI-Subiecte-Rezolvate</h1>
 
 ## Etapa Nationala
-#### 12 Subiecte
+#### 11 Subiecte
 - [X] CIA 2008
 - [X] CIA 2009
 - [X] CIA 2010
 - [X] CIA 2012
 - [ ] OTI 2013
 - [ ] OTI 2014
-- [ ] OTI 2015
 - [ ] OTI 2016
 - [ ] OTI 2017
 - [ ] OTI 2018
