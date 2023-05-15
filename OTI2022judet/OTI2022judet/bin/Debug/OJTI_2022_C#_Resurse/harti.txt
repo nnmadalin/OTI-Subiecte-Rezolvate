@@ -1,0 +1,5 @@
+Harta Bucuresti#harta_bucuresti.png
+Harta Cluj-Napoca#harta_cluj.png
+Harta Constanta#harta_constanta.png
+Harta Iasi#harta_iasi.png
+Harta Sibiu#harta_sibiu.png

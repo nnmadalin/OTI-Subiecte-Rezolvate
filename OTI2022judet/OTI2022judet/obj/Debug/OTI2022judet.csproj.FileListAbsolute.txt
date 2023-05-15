@@ -1,0 +1,13 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\bin\Debug\OTI2022judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\bin\Debug\OTI2022judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\bin\Debug\OTI2022judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.autentificare.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.inregistrare.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.vizualizare.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\judet\OTI2022judet\OTI2022judet\obj\Debug\OTI2022judet.AdaugareMasurare.resources
