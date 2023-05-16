@@ -1,0 +1,15 @@
+Robot 4 8
+Meduza1 2 6
+Meduza1 10 5
+Meduza2 7 6
+Meduza1 6 5
+Meduza2 14 8
+Meduza2 18 5
+Meduza2 12 8
+Meduza1 10 7
+Meduza2 2 2
+Sticla 9 3
+Sticla 7 3
+Hartie 4 5
+Hartie 10 5
+Plastic 14 3

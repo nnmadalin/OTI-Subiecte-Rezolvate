@@ -1,0 +1,11 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\bin\Debug\OTI2022nationala.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\bin\Debug\OTI2022nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\bin\Debug\OTI2022nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.logare.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2022nationala\OTI2022nationala\obj\Debug\OTI2022nationala.interfenteeco.resources
