@@ -1,0 +1,14 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\bin\Debug\OTI2014nationala.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\bin\Debug\OTI2014nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\bin\Debug\OTI2014nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.adauga_pacient.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.Form1.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.medic.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.fisapacient.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2014nationala\OTI2014nationala\obj\Debug\OTI2014nationala.grafic.resources
