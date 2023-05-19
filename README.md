@@ -12,7 +12,7 @@
 - [ ] OTI 2017
 - [ ] OTI 2018
 - [ ] OTI 2019
-- [X] OTI 2022 - Meh meh
+- [ ] OTI 2022 - Meh meh
 
 ## Etapa Judeteana
 #### 12 Subiecte
