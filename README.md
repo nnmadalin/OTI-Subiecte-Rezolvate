@@ -6,13 +6,13 @@
 - [X] CIA 2009
 - [X] CIA 2010
 - [X] CIA 2012
-- [ ] OTI 2013
+- [ ] OTI 2013 - meh meh meh
 - [X] OTI 2014
 - [ ] OTI 2016
 - [ ] OTI 2017
 - [ ] OTI 2018
 - [ ] OTI 2019
-- [X] OTI 2022
+- [X] OTI 2022 - Meh meh
 
 ## Etapa Judeteana
 #### 12 Subiecte
