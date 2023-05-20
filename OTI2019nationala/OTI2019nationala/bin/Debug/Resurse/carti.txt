@@ -1,0 +1,24 @@
+Ciuleandra;Liviu Rebreanu;65
+Colt Alb;Jack London;128
+Enigma Otiliei;George Calinescu;150
+Idiotul;Feodor Mihailovici Dostoievski;200
+Ion;Liviu Rebreanu;180
+La tiganci;Mircea Eliade;100
+Maitreyi;Mircea Eliade;50
+Romanul adolescentului miop;Mircea Eliade;85
+Patul lui Procust;Camil Petrescu;180
+Anna Karenina;Lev Tolstoi;24
+Casa Buddenbrook;Thomas Mann;76
+Rosu si negru;Stendhal;50
+Marele Gatsby;F. Scott Fitzgerald;145
+La rascruce de vanturi;Emily Bronte;96
+Mara;Ioan Slavici;288
+Romeo si Julieta;William Shakespeare;278
+Ulita Copilariei;Ionel Teodoreanu;70
+Micul print;Antoine de Saint-Exupery;35
+Poezii;Otilia Cazimir;44
+Hansel si Grethel;Fratii Grimm;68
+Marele plan;Stephen Hawking;110
+Teoria Universala;Stephen Hawking;27
+Cum vad eu lumea;Albert Einstein;80
+Ascensiunea omului;Jacob Bronowski;145

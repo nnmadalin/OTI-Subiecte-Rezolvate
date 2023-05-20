@@ -1,0 +1,13 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\bin\Debug\OTI2019nationala.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\bin\Debug\OTI2019nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\bin\Debug\OTI2019nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.startBiblioteca.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.LogareBiblioteca.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.BibliotecarBiblioteca.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2019nationala\OTI2019nationala\obj\Debug\OTI2019nationala.PrevizualizareCarte.resources
