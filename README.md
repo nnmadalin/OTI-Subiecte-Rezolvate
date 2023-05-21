@@ -10,7 +10,7 @@
 - [X] OTI 2014
 - [ ] OTI 2016
 - [ ] OTI 2017
-- [ ] OTI 2018
+- [X] OTI 2018
 - [X] OTI 2019
 - [X] OTI 2022 (partial, pana la alg lee)
 
