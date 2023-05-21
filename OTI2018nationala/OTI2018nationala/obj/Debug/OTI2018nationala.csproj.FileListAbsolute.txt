@@ -1,0 +1,15 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\bin\Debug\OTI2018nationala.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\bin\Debug\OTI2018nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\bin\Debug\OTI2018nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.home.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.VizualizareLectii.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.autentificare.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.am_uitat.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.CreareLectie.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvare 2023\nationala\OTI2018nationala\OTI2018nationala\obj\Debug\OTI2018nationala.ghiceste_regiunea.resources

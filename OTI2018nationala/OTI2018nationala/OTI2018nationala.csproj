@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D5D387E-2E68-4999-BEAF-6C95472420BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OTI2018nationala</RootNamespace>
+    <AssemblyName>OTI2018nationala</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="am_uitat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="am_uitat.Designer.cs">
+      <DependentUpon>am_uitat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="autentificare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autentificare.Designer.cs">
+      <DependentUpon>autentificare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CentenarDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CentenarDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CreareLectie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreareLectie.Designer.cs">
+      <DependentUpon>CreareLectie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diploma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diploma.Designer.cs">
+      <DependentUpon>diploma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ghiceste_regiunea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ghiceste_regiunea.Designer.cs">
+      <DependentUpon>ghiceste_regiunea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VizualizareLectii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VizualizareLectii.Designer.cs">
+      <DependentUpon>VizualizareLectii.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="am_uitat.resx">
+      <DependentUpon>am_uitat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="autentificare.resx">
+      <DependentUpon>autentificare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreareLectie.resx">
+      <DependentUpon>CreareLectie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diploma.resx">
+      <DependentUpon>diploma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ghiceste_regiunea.resx">
+      <DependentUpon>ghiceste_regiunea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VizualizareLectii.resx">
+      <DependentUpon>VizualizareLectii.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="CentenarDBDataSet.xsc">
+      <DependentUpon>CentenarDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CentenarDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CentenarDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CentenarDBDataSet.xss">
+      <DependentUpon>CentenarDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
