@@ -1,0 +1,12 @@
+1;0;ana@gmail.com;100
+2;1;georgescu.george@ojti2023.ro;120
+3;0;popescu.petre@ojti2023.ro;70
+4;1;costel@gmail.com;100
+5;1;cristina@gmail.com;50
+6;1;cristina@gmail.com;80
+7;0;lefter.liviu@ojti2023.ro;80
+8;0;cristina@gmail.com;50
+9;0;mihai@gmail.com;90
+10;1;popescu.petre@ojti2023.ro;150
+11;0;georgescu.george@ojti2023.ro;10
+12;1;maria@gmail.com;90

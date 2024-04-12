@@ -1,0 +1,16 @@
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\bin\Debug\JocEducativ.mdf
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\bin\Debug\JocEducativ_log.ldf
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\bin\Debug\OTI2023judet.exe.config
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\bin\Debug\OTI2023judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\bin\Debug\OTI2023judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.csproj.AssemblyReference.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.Form1.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.Properties.Resources.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.csproj.GenerateResource.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.csproj.CoreCompileInputs.cache
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.exe
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.pdb
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.AlegeJoc.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.Ghiceste.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.Sarpe.resources
+C:\Users\nnmadalin\Desktop\Olimpiade & Concursuri\C# - olimpiada\subiecte rezolvate 2024\OTI2023judet\OTI2023judet\obj\Debug\OTI2023judet.Intrebare.resources
