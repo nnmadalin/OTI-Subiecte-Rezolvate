@@ -1,0 +1,14 @@
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.csproj.AssemblyReference.cache
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.Form1.resources
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.Properties.Resources.resources
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.csproj.GenerateResource.cache
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.csproj.CoreCompileInputs.cache
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\bin\Debug\OTI2014judet_2025.exe.config
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\bin\Debug\OTI2014judet_2025.exe
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\bin\Debug\OTI2014judet_2025.pdb
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.exe
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.pdb
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\bin\Debug\DBBursa.mdf
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\bin\Debug\DBBursa_log.ldf
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.actiunileMele.resources
+C:\Users\Bogdana\Desktop\NNM\OTI2014judet_2025\OTI2014judet_2025\obj\Debug\OTI2014judet_2025.graficProfit.resources

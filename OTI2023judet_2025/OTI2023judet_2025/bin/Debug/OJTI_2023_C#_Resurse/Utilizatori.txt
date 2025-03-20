@@ -1,0 +1,12 @@
+popescu.petre@ojti2023.ro;otipopescu;abc123@A
+georgescu.george@ojti2023.ro;otigeorgescu;def456@A
+marinescu.marin@ojti2023.ro;otimarinescu;ghi123@B
+lefter.liviu@ojti2023.ro;otilefter;jkl456@A
+ana@gmail.com;ana;Ana18
+marian@gmail.com;Marian;marian12
+ioana@gmail.com;Ioana;ioana12
+costel@gmail.com;Costel;costel9
+mihai@gmail.com;Mihai;mihai8
+maria@gmail.com;Maria;maria8
+cosmin@gmail.com;Cosmin;cosmin6
+cristina@gmail.com;Cristina;cristina6

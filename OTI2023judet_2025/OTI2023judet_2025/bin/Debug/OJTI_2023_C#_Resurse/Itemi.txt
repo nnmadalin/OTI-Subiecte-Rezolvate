@@ -1,0 +1,20 @@
+1;În anul 1918 prima provincie românească, care s-a unit cu România a fost ?;Bucovina;Transilvania;Basarabia;3;10
+2;În anul 1918 a doua provincie românească, care s-a unit cu România a fost ?;Bucovina;Transilvania;Basarabia;1;10
+3;În anul 1918 ultima provincie românească, care s-a unit cu România a fost ?;Bucovina;Transilvania;Basarabia;2;10
+4;Secolul de înflorire a culturii medievale româneşti a fost ?;XVI;XVIII;XVII;3;5
+5;Cine a scris un tratat despre originea românilor publicat la 100 de ani după moartea sa ?;Miron Costin;Grigore Ureche;Martin Felmer;3;15
+6;Câmpia Bărăganului este partea estică a ?;Câmpiei de Vest;Câmpiei Române;Luncii Dunării;2;5
+7;Orașul București este străbătut de râul ?;Prahova;Siret;Dâmbovița;3;5
+8;Cel mai înalt vârf din Carpații Meridionali este ?;Moldoveanu;Omu;Pietrosu;1;5
+9;Cel mai înalt vârf din Carpații Meridionali este ?;Moldoveanu;Omu;Pietrosu;1;5
+10;Vecinii României sunt ?;Ucraina (N), Rep. Moldova (E), Bulgaria (S), Serbia (SV), Ungaria (NV);Bulgaria (N), Rep. Moldova (V), Ucraina (S), Serbia (SV), Ungaria (NV);Ucraina (N), Rep. Moldova (E), Bulgaria (S);1;15
+11;Epiteliul cheratinizat este întâlnit la nivelul​ ?;epidermei;mucoasei esofagiene;	mucoasei faringiene;1;5
+12;Neuronii de origine pentru fasciculele rubrospinale sunt reprezentați de ?;nucleii olivari din bulb;nucleul roșu din mezencefal;nucleii vestibulari din bulb;2;15
+13;Corpusculii Ruffini recepționează ?;exclusiv modificări de presiune;excitanții pentru rece;excitanții pentru cald;3;10
+14;Celulele cu bastonașe sunt responsabile de ?;vederea nocturnă;vederea diurnă;vederea diurnă și nocturnă;1;5
+15;Mitocondria prezintă ?;membrană internă;membrană externă;membrană internă și externă;3;5
+16;Soluția ecuației -5x+15=0 este ?;3;-3;ecuația nu are soluție;1;10
+17;Rezultatul operației -4*8 este ?;32;-32;20;2;5
+18;Într-o piață s-au vândut 80% din numărul total de roșii. Câte roșii au fost în piața dacă au rămas de vândut 1100 de roșii ?;2000;4400;5500;3;15
+19;-62 + -2= ?;64;-64;60;2;5
+20;Arthur se joacă pe computer 5 ore la 3 zile. În câte zile se va juca Arthur 70 de ore ?;42;32;62;1;15

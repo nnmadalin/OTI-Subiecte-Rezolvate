@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\meniufreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\meniufreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\meniufreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\meniufreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\afiseazacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\classstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\classstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2019judet_2025\\oti2019judet_2025\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DCD5B8-8E9A-4F5D-BF5B-D39C518121FF}|OTI2019judet_2025\\OTI2019judet_2025.csproj|solutionrelative:oti2019judet_2025\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AfiseazaCarte.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\AfiseazaCarte.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\AfiseazaCarte.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\AfiseazaCarte.cs",
+              "RelativeToolTip": "OTI2019judet_2025\\AfiseazaCarte.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBUAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:27:51.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AfiseazaCarte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\AfiseazaCarte.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\AfiseazaCarte.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\AfiseazaCarte.cs [Design]",
+              "RelativeToolTip": "OTI2019judet_2025\\AfiseazaCarte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:27:30.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeniuFreeBook.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\MeniuFreeBook.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\MeniuFreeBook.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\MeniuFreeBook.cs",
+              "RelativeToolTip": "OTI2019judet_2025\\MeniuFreeBook.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowJQAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:01:30.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeniuFreeBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\MeniuFreeBook.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\MeniuFreeBook.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\MeniuFreeBook.cs [Design]",
+              "RelativeToolTip": "OTI2019judet_2025\\MeniuFreeBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:47:42.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogareFreeBook.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\LogareFreeBook.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\LogareFreeBook.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\LogareFreeBook.cs",
+              "RelativeToolTip": "OTI2019judet_2025\\LogareFreeBook.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:18:27.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogareFreeBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\LogareFreeBook.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\LogareFreeBook.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\LogareFreeBook.cs [Design]",
+              "RelativeToolTip": "OTI2019judet_2025\\LogareFreeBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:59:13.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "classStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\classStrings.cs",
+              "RelativeDocumentMoniker": "OTI2019judet_2025\\classStrings.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2019judet_2025\\OTI2019judet_2025\\classStrings.cs",
+              "RelativeToolTip": "OTI2019judet_2025\\classStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:58:11.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

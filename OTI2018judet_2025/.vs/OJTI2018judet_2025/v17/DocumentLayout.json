@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\ojti2018judet_2025\\ojti2018judet_2025\\elearning1918_elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|solutionrelative:ojti2018judet_2025\\elearning1918_elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\ojti2018judet_2025\\ojti2018judet_2025\\elearning1918_elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|solutionrelative:ojti2018judet_2025\\elearning1918_elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BOGDANA_DESKTOP_NNM_OJTI2018JUDET_2025_OJTI2018JUDET_2025_BIN_DEBUG_ELEARNING1918.MDF/True/SqlTable/dbo.Itemi.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\ojti2018judet_2025\\ojti2018judet_2025\\elearning1918_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|solutionrelative:ojti2018judet_2025\\elearning1918_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\ojti2018judet_2025\\ojti2018judet_2025\\elearning1918_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|solutionrelative:ojti2018judet_2025\\elearning1918_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\ojti2018judet_2025\\ojti2018judet_2025\\classstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B22844F-E991-4A3A-ACE0-CBB7A76562C8}|OJTI2018judet_2025\\OJTI2018judet_2025.csproj|solutionrelative:ojti2018judet_2025\\classstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Itemi [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BOGDANA_DESKTOP_NNM_OJTI2018JUDET_2025_OJTI2018JUDET_2025_BIN_DEBUG_ELEARNING1918.MDF/True/SqlTable/dbo.Itemi.sql",
+              "ToolTip": "dbo.Itemi [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-17T09:19:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eLearning1918_Elev.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_Elev.cs",
+              "RelativeDocumentMoniker": "OJTI2018judet_2025\\eLearning1918_Elev.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_Elev.cs",
+              "RelativeToolTip": "OJTI2018judet_2025\\eLearning1918_Elev.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAOEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:46:33.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eLearning1918_Elev.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_Elev.cs",
+              "RelativeDocumentMoniker": "OJTI2018judet_2025\\eLearning1918_Elev.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_Elev.cs [Design]",
+              "RelativeToolTip": "OJTI2018judet_2025\\eLearning1918_Elev.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:45:26.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "eLearning1918_start.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_start.cs",
+              "RelativeDocumentMoniker": "OJTI2018judet_2025\\eLearning1918_start.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_start.cs",
+              "RelativeToolTip": "OJTI2018judet_2025\\eLearning1918_start.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAADwv+0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:42:17.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\ClassStrings.cs",
+              "RelativeDocumentMoniker": "OJTI2018judet_2025\\ClassStrings.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\ClassStrings.cs",
+              "RelativeToolTip": "OJTI2018judet_2025\\ClassStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:40:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eLearning1918_start.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_start.cs",
+              "RelativeDocumentMoniker": "OJTI2018judet_2025\\eLearning1918_start.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OJTI2018judet_2025\\OJTI2018judet_2025\\eLearning1918_start.cs [Design]",
+              "RelativeToolTip": "OJTI2018judet_2025\\eLearning1918_start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:40:58.172Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

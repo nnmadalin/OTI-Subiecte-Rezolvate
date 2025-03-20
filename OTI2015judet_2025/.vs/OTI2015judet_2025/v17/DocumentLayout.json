@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2015judet_2025\\oti2015judet_2025\\listacroaziere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|solutionrelative:oti2015judet_2025\\listacroaziere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2015judet_2025\\oti2015judet_2025\\listacroaziere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|solutionrelative:oti2015judet_2025\\listacroaziere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|c:\\users\\bogdana\\desktop\\nnm\\oti2015judet_2025\\oti2015judet_2025\\administrare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|solutionrelative:oti2015judet_2025\\administrare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\oti2015judet_2025\\administrare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|solutionrelative:oti2015judet_2025\\administrare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\oti2015judet_2025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|solutionrelative:oti2015judet_2025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\oti2015judet_2025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77E7D3BF-A7CB-4369-8FA0-E32C4BA789A4}|OTI2015judet_2025\\OTI2015judet_2025.csproj|solutionrelative:oti2015judet_2025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaCroaziere.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\ListaCroaziere.cs",
+              "RelativeDocumentMoniker": "OTI2015judet_2025\\ListaCroaziere.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\ListaCroaziere.cs",
+              "RelativeToolTip": "OTI2015judet_2025\\ListaCroaziere.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:33:59.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaCroaziere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\ListaCroaziere.cs",
+              "RelativeDocumentMoniker": "OTI2015judet_2025\\ListaCroaziere.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\ListaCroaziere.cs [Design]",
+              "RelativeToolTip": "OTI2015judet_2025\\ListaCroaziere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:26:52.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrare.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Administrare.cs",
+              "RelativeDocumentMoniker": "OTI2015judet_2025\\Administrare.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Administrare.cs",
+              "RelativeToolTip": "OTI2015judet_2025\\Administrare.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAQwMoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:56:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Administrare.cs",
+              "RelativeDocumentMoniker": "OTI2015judet_2025\\Administrare.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Administrare.cs [Design]",
+              "RelativeToolTip": "OTI2015judet_2025\\Administrare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:19:56.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Form1.cs",
+              "RelativeDocumentMoniker": "OTI2015judet_2025\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Form1.cs",
+              "RelativeToolTip": "OTI2015judet_2025\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:16:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Form1.cs",
+              "RelativeDocumentMoniker": "OTI2015judet_2025\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bogdana\\Desktop\\NNM\\OTI2015judet_2025\\OTI2015judet_2025\\Form1.cs [Design]",
+              "RelativeToolTip": "OTI2015judet_2025\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:59:59.799Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

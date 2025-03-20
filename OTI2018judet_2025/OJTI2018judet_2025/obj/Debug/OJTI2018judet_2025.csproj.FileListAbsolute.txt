@@ -1,0 +1,11 @@
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\bin\Debug\OJTI2018judet_2025.exe.config
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\bin\Debug\OJTI2018judet_2025.exe
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\bin\Debug\OJTI2018judet_2025.pdb
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.csproj.AssemblyReference.cache
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.eLearning1918_start.resources
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.Properties.Resources.resources
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.csproj.GenerateResource.cache
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.csproj.CoreCompileInputs.cache
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.exe
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.pdb
+C:\Users\Bogdana\Desktop\NNM\OJTI2018judet_2025\OJTI2018judet_2025\obj\Debug\OJTI2018judet_2025.eLearning1918_Elev.resources
